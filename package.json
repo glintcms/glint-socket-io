@@ -1,0 +1,31 @@
+{
+  "name": "glint-socket-io",
+  "version": "1.0.0",
+  "description": "socket io module for express and browser. this module needs to be installed an used as middleware on the main express app.",
+  "main": "server.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andi Neck",
+  "license": "MIT",
+  "dependencies": {
+    "express-session": "^1.10.4",
+    "session-glint": "^1.0.0",
+    "socket.io": "^1.3.5",
+    "socket.io-client": "^1.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-socket-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-socket-io/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-socket-io",
+  "keywords": [
+    "glint",
+    "socket",
+    "io"
+  ]
+}
