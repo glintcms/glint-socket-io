@@ -1,5 +1,4 @@
-
-var debug = require('debug')('glint:socket.io');
+var debug = require('debug')('glint-socket-io');
 var IO = require('socket.io');
 
 exports = module.exports = function (server, sessionStore, options) {
