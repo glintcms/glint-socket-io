@@ -1,6 +1,6 @@
 {
   "name": "glint-socket-io",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "socket io module for express and browser. this module needs to be installed an used as middleware on the main express app.",
   "main": "server.js",
   "browser": "browser.js",
